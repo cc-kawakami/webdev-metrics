@@ -1,0 +1,94 @@
+[
+  {
+    "category": {
+      "name": "Website Usability",
+      "description": " Fewer barriers for users to achieve their goals. It can also be called a trusting relationship between the user and the product.",
+      "link": {
+        "title": "The 7 most important UX KPIs and how to measure them",
+        "url": "https://www.testingtime.com/en/blog/important-ux-kpis/"
+      }
+    },
+    "metrics": [
+      {
+        "name": "Task Success Rate",
+        "description": "Users will give up on their goals if they feel distrustful of the product or if it is too complicated to operate before they achieve their goals."
+      },
+      {
+        "name": "Time-on-Task",
+        "description": "The time to complete a goal is affected by how few operations are required to do so and the ease of understanding."
+      },
+      {
+        "name": "Search vs Navigation",
+        "description": "What makes users happy is not that they control the product to get the information they need, but that it falls from the sky on its own."
+      },
+      {
+        "name": "System Usability Scale",
+        "description": "Asking users directly is one way to get quick tips. (That's just the subjective aspect though.)"
+      },
+      {
+        "name": "Customer Satisfaction",
+        "description": "Asking questions about the user's feelings could be helpful in determining the direction of improvement methods. Devilish methods could be avoided."
+      }
+    ]
+  },
+  {
+    "category": {
+      "name": "Development Performance",
+      "description": "How much and how accurately the development team can do its job is the power to improve the product.",
+      "link": {
+        "title": "Use Four Keys metrics like change failure rate to measure your DevOps performance | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance?hl=en"
+      }
+    },
+    "metrics": [
+      {
+        "name": "Time to Restore Service",
+        "description": "A method must be established to get the product out of a tight spot. We should not be in a hurry to start the recovery process, but rather follow a set procedure and start the recovery process in a good, prepared environment."
+      },
+      {
+        "name": "Change Failure Rate",
+        "description": "Consider ways to increase the accuracy of testing and the likelihood that errors can be detected before release. This is not craftsmanship."
+      },
+      {
+        "name": "Lead Time for Changes",
+        "description": "Once a method of improvement is determined, it must be immediately reflected in the product. It may be a good time to wait for the mechanical process over a cup of coffee, though."
+      },
+      {
+        "name": "Deployment Frequency",
+        "description": "A team that can make 10 changes in the same amount of time versus a team that can make 100 may have a 10-fold difference in the likelihood of a good product."
+      }
+    ]
+  },
+  {
+    "category": {
+      "name": "Team Effectiveness",
+      "description": "If the psychological aspect of the team is not fulfilled, nothing can begin. It is important to focus not on the team members, but on the relationship between them.",
+      "link": {
+        "title": "re:Work - Guide: Understand team effectiveness",
+        "url": "https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/introduction/#introduction"
+      }
+    },
+    "metrics": [
+      {
+        "name": "Impact",
+        "description": "Congrats to everyone for their contributions against the team. Please listen."
+      },
+      {
+        "name": "Psychological Safety",
+        "description": "If there is nothing to fear as you work, you can focus on what is most important to the product."
+      },
+      {
+        "name": "Dependability",
+        "description": "Responding with a smile when asked for help is as easy as creating a library with an easy-to-understand API."
+      },
+      {
+        "name": "Structure and Clarity",
+        "description": "When everyone knows what they are supposed to do and who their role is, there is no need for daily instructions."
+      },
+      {
+        "name": "Meaning",
+        "description": "Define a useful product for people. Then, gather members who agree with it."
+      }
+    ]
+  }
+]
